@@ -1,4 +1,6 @@
-My First Project in Django API, (Appliaction Programming Interface) is:
+This Respository contains two Projects:
+
+First Project is, Django API, (Appliaction Programming Interface):
 
 Company API – Django REST Framework Project:
 
@@ -6,7 +8,7 @@ Company API – Django REST Framework Project:
 managing company-related data such as employees, departments, or any other 
 business logic."
 
-My Second Project in Django API, (Appliaction Programming Interface) is:
+Second Project is, Django API, (Appliaction Programming Interface):
 
 Django Organization Management System:
 
